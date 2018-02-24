@@ -28,4 +28,4 @@ This project is currently maintained by:
 - [devopsunleashed](https://github.com/devopsunleashed)
 
 Feeling inspired? Check our [Contributing guide]
-(https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/.github/CONTRIBUTING.md) to get started!
+(https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/CONTRIBUTORS.md) to get started!
