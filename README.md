@@ -15,7 +15,7 @@ Contained in this file are a number of DevOps interview questions that can be us
 
 ## Getting Involved
 
-  1. [Contributors](#contributors)
+  1. [Contributors](https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/CONTRIBUTORS.md)
   1. [How to Contribute](https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/.github/CONTRIBUTING.md)
   1. [License](https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/LICENSE.md)
 
@@ -28,4 +28,4 @@ This project is currently maintained by:
 - [devopsunleashed](https://github.com/devopsunleashed)
 
 Feeling inspired? Check our [Contributing guide]
-(https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/CONTRIBUTORS.md) to get started!
+(https://github.com/devopsunleashed/DevOps-Interview-Questions/blob/master/.github/CONTRIBUTING.md) to get started!
