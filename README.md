@@ -4,14 +4,14 @@ Contained in this file are a number of DevOps interview questions that can be us
 
 ## Table of Contents
 
-  1. [General Questions](questions/general-questions.md)
-  1. [Cloud Questions](questions/cloud-questions.md)
+  1. [General Questions](questions/general-questions.md) :x:
+  1. [Cloud Questions](questions/cloud-questions.md) :x:
   1. [Orchestration Questions](questions/orchestration-questions.md)
-  1. [Agile Questions](questions/agile-questions.md)
-  1. [Programming Questions](questions/programming-questions.md)
-  1. [Container Questions](questions/containers-questions.md)
-  1. [CI\CD Tool Questions](questions/ci-cd-questions.md)
-  1. [Collaboration Questions](questions/collaboration-questions.md)
+  1. [Agile Questions](questions/agile-questions.md) :x:
+  1. [Programming Questions](questions/programming-questions.md) :x:
+  1. [Container Questions](questions/containers-questions.md) :x:
+  1. [CI\CD Tool Questions](questions/ci-cd-questions.md) :x:
+  1. [Collaboration Questions](questions/collaboration-questions.md) :x:
 
 ## Getting Involved
 
