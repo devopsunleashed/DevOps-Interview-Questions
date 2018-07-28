@@ -8,7 +8,7 @@
 * What build languages do you have experience with? (e.g. Ant, Gradle, Maven)
 
 * Do you have experience building pipelines that deploy to the cloud?
-** If so, what issues have you encountered?
+* If so, what issues have you encountered?
 
 * What source control tools have you worked with?
 * What are some of the advantages of CI\CD pipelines in general?
