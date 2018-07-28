@@ -10,7 +10,7 @@ Contained in this file are a number of DevOps interview questions that can be us
   1. [Agile Questions](questions/agile-questions.md) :x:
   1. [Programming Questions](questions/programming-questions.md) :x:
   1. [Container Questions](questions/containers-questions.md) :x:
-  1. [CI\CD Tool Questions](questions/ci-cd-questions.md) :x:
+  1. [CI\CD Tool Questions](questions/ci-cd-questions.md)
   1. [Collaboration Questions](questions/collaboration-questions.md) :x:
 
 ## Getting Involved
